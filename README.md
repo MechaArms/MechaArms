@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   </summary>
  <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaArms)](https://git.io/streak-stats)
+[![MechaArms' GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaArms)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MechaArms&count_private=true&show_icons=true&theme=default)
 <br>
  
