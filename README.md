@@ -12,18 +12,9 @@
 alt="https://www.codewars.com/users/MechaArms" height="40" width="40" /></a>
 </p>
 
-<!---
-MechaArms/MechaArms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <br>
-
- <details open>
-  <summary>
-    <strong>My GitHub stats</strong> 
-  </summary>
- <br>
+<h3 align="left">My Github stats:</h3>
+<br>
 
 [![MechaArms' GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MechaArms)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MechaArms&count_private=true&show_icons=true&theme=default)
