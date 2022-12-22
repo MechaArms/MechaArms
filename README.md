@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MechaArms
 - 👀 I’m interested in became a developer
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin and Android
 - 📫 How to reach me find in <a href="https://www.linkedin.com.br/in/romero-mendes-441752190">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
